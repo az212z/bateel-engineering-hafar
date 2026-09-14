@@ -42,3 +42,6 @@
 .folio .hero-picture img{max-height:660px;object-fit:contain;width:100%}
 [data-office=talal-shaker-engineering] .hero-picture img{object-fit:contain;height:auto!important;max-height:550px}
 [data-office=talal-shaker-engineering] .hero-picture{background:#141715}
+.btn.light,[data-theme=dark] .btn.light{color:#242724;background:#fff}
+[data-theme=dark] .eyebrow{color:var(--muted)}
+[data-theme=dark] .cinema .hero .eyebrow{color:white}
